@@ -35,18 +35,18 @@ button {
 }
 
 button {
-  background-color: #007bff;
+  background-color: black;
   color: white;
   font-weight: bold;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: red;
 }
 
 #result {
   margin-top: 20px;
   font-size: 1.2em;
-  color: #007bff;
+  color: green;
 }
