@@ -25,7 +25,6 @@ The Akan Name Generator is a web application that calculates the day of the week
 ## **Technologies Used**
 - **HTML**: For structuring the application layout.
 - **CSS**: For styling the webpage with a clean and modern design.
-- **JavaScript**: For input validation, day calculation, and dynamic content updates.
+- **JavaScript**: For input validation, day calculation, and dynamic content update
 
----
-
+# My Live site is at 
