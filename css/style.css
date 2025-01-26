@@ -23,9 +23,18 @@ label {
 #form {
   font-size: larger;
 }
-input, select, button {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 15px;
-    border-radius: 5px;
-    border: 1px solid #ccc;
+input,
+select,
+button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+button {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
