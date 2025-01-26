@@ -29,7 +29,3 @@ The Akan Name Generator is a web application that calculates the day of the week
 
 ---
 
-## **Setup Instructions**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/akan-name-generator.git
